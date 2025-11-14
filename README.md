@@ -17,13 +17,13 @@ Payments need: payment_id, payer_name, payment_date, currency, amount, reference
 - Files can't be empty
 
 ## Quick Start
-# Install
+### Install
 ```
 python -m venv .venv
 .venv\Scripts\activate
 pip install -r requirements.txt
 ```
-# Run
+### Run
 ```
 flask --app app.web run --reload
 ```
