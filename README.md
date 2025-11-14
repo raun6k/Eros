@@ -25,5 +25,5 @@ pip install -r requirements.txt
 ```
 # Run
 ```
-flask --app reconcile_app.web run --reload
+flask --app app.web run --reload
 ```
